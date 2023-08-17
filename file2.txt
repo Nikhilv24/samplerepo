@@ -1,2 +1,3 @@
-name is something 
-print hello world
+
+git hub is SCM
+git will track all the chnages in code
